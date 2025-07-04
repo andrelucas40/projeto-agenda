@@ -1,14 +1,46 @@
-# Nome do Projeto
-Agenda de Contatos
+# 📒 Agenda de Contatos com SQLite
 
-## Objetivo da Agenda
-O projeto consiste em uma agenda de contatos com operações básicas de CRUD (Criar, Ler, Atualizar, Deletar), sem interface gráfica.  
-Esta aplicação permite gerenciar contatos de forma simples, facilitando a organização e o acesso rápido às informações.
+## 📌 Objetivo da Agenda
 
-## Como Executar o Programa
-1. Clone este repositório para sua máquina local:
+Este projeto tem como objetivo fornecer uma aplicação simples de agenda de contatos utilizando **Python** e **SQLite**. A agenda permite adicionar, listar, buscar e remover contatos, incluindo informações como **nome**, **telefone**, **endereço** e **CPF** (com verificação de unicidade).
+
+---
+
+## ▶️ Como Executar o Programa
+
+### ✅ Pré-requisitos
+- Python 3 instalado na máquina (versão 3.6 ou superior recomendada)
+- Nenhuma biblioteca externa é necessária (utiliza apenas bibliotecas padrão)
+
+### 📂 Passos para execução:
+
+1. **Baixe ou clone este repositório**:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
+   cd seu-repositorio
+2. **Execute o arquivo principal**:
 
-## créditos do aluno
-Aluno(a): André Lucas Mota Ribeiro
+bash
+Copiar
+Editar
+python agenda.py
+
+3. **Use o menu interativo para**:
+
+Adicionar contatos
+
+Listar todos os contatos
+
+Buscar contatos pelo nome
+
+Remover contatos por ID
+
+⚠️ O banco de dados agenda.db será criado automaticamente no mesmo diretório na primeira execução.
+
+👨‍🎓 Créditos do Aluno
+Nome: André Lucas Mota Ribeiro
+Curso: Analista de sistemas, SENAI
+Professor: Marcos
+Data: 07/2025
+
+12
