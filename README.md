@@ -39,6 +39,6 @@ Remover contatos por ID
 
 👨‍🎓 Créditos do Aluno
 Nome: André Lucas Mota Ribeiro
-Curso: Analista de sistemas, SENAI
+Curso: programador de sistemas, SENAI
 Professor: Marcos
 Data: 07/2025
