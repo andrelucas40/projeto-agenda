@@ -42,5 +42,3 @@ Nome: André Lucas Mota Ribeiro
 Curso: Analista de sistemas, SENAI
 Professor: Marcos
 Data: 07/2025
-
-12
